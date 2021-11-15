@@ -4,7 +4,8 @@
 php artisan migrate
 php artisan db:seed
 
-![Capture1](https://user-images.githubusercontent.com/59780119/141787582-8cef2ad2-d41d-40b1-b33f-5a5d477dcddb.PNG)
+![blogBD](https://user-images.githubusercontent.com/59780119/141789658-cf50623b-dc1d-4853-8cd7-e15a45285b6c.PNG)
+
 
 ## Routes
 #Formations:
